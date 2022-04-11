@@ -1,2 +1,2 @@
 [template.environment]
-  WEBFLOW_URL = "Your webflow URL without the trailing slash"
+  WEBFLOW_URL = "https://al.appyhere.com"
